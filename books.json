@@ -20,111 +20,127 @@
         "author" : "Paulo Coelho",
         "pages" : "192",
         "year" : "1988",
-        "subject" : "Santiago adındaki Endülüslü bir çobanın İspanya'dan başlayıp Mısır'da sona eren yolculuğunu konu ediniyor. Gördüğü bir rüya üzerine sahip olduğu her şeyi ardında bırakan Santiago'nun bu serüveni, onu düşlerine kavuşturduğu kadar hayatın hakikatine de ulaştırıyor."
+        "subject" : "Santiago adındaki Endülüslü bir çobanın İspanya'dan başlayıp Mısır'da sona eren yolculuğunu konu ediniyor. Gördüğü bir rüya üzerine sahip olduğu her şeyi ardında bırakan Santiago'nun bu serüveni, onu düşlerine kavuşturduğu kadar hayatın hakikatine de ulaştırıyor.",
+        "image" : "https://github.com/busraselimoglu/bookjson/blob/main/simyaci.jpg"
     },
     {
         "name" : "Aşk ve Gurur",
         "author" : "Jane Austen",
         "pages" : "456",
         "year" : "1813",
-        "subject" : "Taşralı bir beyefendinin kızı olan Elizabeth Bennett ile varlıklı ve soylu toprak sahibi Fitzwilliam Darcy arasındaki çatışmayı anlatır. Gerçi Jane Austen bu iki karakteri birbirlerinin tuzağına düşmüş kişiler gibi sunar; ama bu ilk izlenimi tersine çevirmekte de gecikmez. Soylu bir aileden gelen ve önemli bir servet sahibi olan Darcy, Elizabeth’in ailesinin soylu olmayışı nedeniyle mesafeli davranır. Elizabeth’in davranışında da hem özsaygının uyandırdığı gurur hem de Darcy’nin züppeliği karşı­sındaki öfkesi etkili olur. Zeki ve coşkulu Elizabeth yalnızca Aus­ten’ın en çok sevdiği kadın kahramanı değil, aynı zamanda tüm İngiliz edebiyatının en çok ilgi uyandıran kadın roman kişiliklerinden biridir."
+        "subject" : "Taşralı bir beyefendinin kızı olan Elizabeth Bennett ile varlıklı ve soylu toprak sahibi Fitzwilliam Darcy arasındaki çatışmayı anlatır. Gerçi Jane Austen bu iki karakteri birbirlerinin tuzağına düşmüş kişiler gibi sunar; ama bu ilk izlenimi tersine çevirmekte de gecikmez. Soylu bir aileden gelen ve önemli bir servet sahibi olan Darcy, Elizabeth’in ailesinin soylu olmayışı nedeniyle mesafeli davranır. Elizabeth’in davranışında da hem özsaygının uyandırdığı gurur hem de Darcy’nin züppeliği karşı­sındaki öfkesi etkili olur. Zeki ve coşkulu Elizabeth yalnızca Aus­ten’ın en çok sevdiği kadın kahramanı değil, aynı zamanda tüm İngiliz edebiyatının en çok ilgi uyandıran kadın roman kişiliklerinden biridir.",
+        "image" : "https://github.com/busraselimoglu/bookjson/blob/main/askvegurur.jpg"
     },
     {
         "name" : "Beyaz Zambaklar Ülkesinde",
         "author" : "Grigori Petrov",
         "pages" : "224",
         "year" : "1923",
-        "subject" : "20'nci yüzyılın başında Finlandiya'nın Rusya'ya karşı verdiği bağımsızlık mücadelesini tüm yönleriyle ele alıyor. Kitap; bataklık bir bölgenin, üzerinde beyaz zambakların açtığı güzel bir alana dönüştürülmesini hem gerçek hem de sembolik yönüyle anlatıyor."
+        "subject" : "20'nci yüzyılın başında Finlandiya'nın Rusya'ya karşı verdiği bağımsızlık mücadelesini tüm yönleriyle ele alıyor. Kitap; bataklık bir bölgenin, üzerinde beyaz zambakların açtığı güzel bir alana dönüştürülmesini hem gerçek hem de sembolik yönüyle anlatıyor.",
+        "image" : "https://github.com/busraselimoglu/bookjson/blob/main/beyazzambaklarulkesinde.jpg"
     },
     {
         "name" : "Veronika Ölmek İstiyor",
         "author" : "Paulo Coelho",
         "pages" : "200",
         "year" : "1998",
-        "subject" : "Veronika her istediğine sahip görünen, renkli bir yaşam süren, yakışıklı erkeklerle gezip tozan genç bir kadın olmasına karşın mutlu değildir. Yaşamında bir şeylerin eksikliğini hissetmektedir. Başarısız bir intihar girişiminin ardından, kendini bir akıl hastanesinde bulur. Üstelik çok kısa bir ömrü kaldığını öğrenir."
+        "subject" : "Veronika her istediğine sahip görünen, renkli bir yaşam süren, yakışıklı erkeklerle gezip tozan genç bir kadın olmasına karşın mutlu değildir. Yaşamında bir şeylerin eksikliğini hissetmektedir. Başarısız bir intihar girişiminin ardından, kendini bir akıl hastanesinde bulur. Üstelik çok kısa bir ömrü kaldığını öğrenir.",
+        "image" : "https://github.com/busraselimoglu/bookjson/blob/main/veronikaolmekistiyor.jpg"
     },
     {
         "name" : "Dönüşüm",
         "author" : "Franz Kafka",
         "pages" : "104",
         "year" : "1915",
-        "subject" : "Gregor Samsa'nın bir sabah yatağında böcek olarak uyanmasıyla başlamaktadır. Çalıştığı süre boyunca evde; annesi, babası, kız kardeşi ile hiçbir şekilde problem yaşamayan Gregor, işsiz kalmasıyla birlikte evde artık bir fazlalık konumuna geçmiştir."
+        "subject" : "Gregor Samsa'nın bir sabah yatağında böcek olarak uyanmasıyla başlamaktadır. Çalıştığı süre boyunca evde; annesi, babası, kız kardeşi ile hiçbir şekilde problem yaşamayan Gregor, işsiz kalmasıyla birlikte evde artık bir fazlalık konumuna geçmiştir.",
+        "image" : "https://github.com/busraselimoglu/bookjson/blob/main/donusum.jpg"
     },
     {
         "name" : "İçimizdeki Şeytan",
         "author" : "Sabahattin Ali",
         "pages" : "256",
         "year" : "1940",
-        "subject" : "Birbirini severek ama çok da iyi tanıma fırsatını bulamadan evlenen, hayata bakış tarzları, kişilikleri farklı olan iki gencin anlaşamayarak boşanmaları üzerine kurulu bir romandır."
+        "subject" : "Birbirini severek ama çok da iyi tanıma fırsatını bulamadan evlenen, hayata bakış tarzları, kişilikleri farklı olan iki gencin anlaşamayarak boşanmaları üzerine kurulu bir romandır.",
+        "image" : "https://github.com/busraselimoglu/bookjson/blob/main/icimizdekiseytan.jpg"
     },
     {
         "name" : "Martı",
         "author" : "Anton Çehov",
         "pages" : "94",
         "year" : "1895",
-        "subject" : "Gerçek hayata öykünerek dünyevi, gündelik ve sıradanla, önemli ve ciddi olanı yan yana getirmiştir. Oyunun karakterleri kendileriyle, hayattan beklentileriyle, özlemleriyle fazlasıyla meşguldür. Hepsi de başarı, mutluluk ve bütünlük arayışındadır. Onlarda ağır basan başka bir yerde olma özlemi; fırsatların boşa harcandığına, umutların boşa çıktığına dair bir duygu Çehov’un başlıca karakteristiğidir."
+        "subject" : "Gerçek hayata öykünerek dünyevi, gündelik ve sıradanla, önemli ve ciddi olanı yan yana getirmiştir. Oyunun karakterleri kendileriyle, hayattan beklentileriyle, özlemleriyle fazlasıyla meşguldür. Hepsi de başarı, mutluluk ve bütünlük arayışındadır. Onlarda ağır basan başka bir yerde olma özlemi; fırsatların boşa harcandığına, umutların boşa çıktığına dair bir duygu Çehov’un başlıca karakteristiğidir.",
+        "image" : "https://github.com/busraselimoglu/bookjson/blob/main/marti.jpg"
     },
     {
         "name" : "Kırmızı Pazartesi",
         "author" : "Gabriel García Márquez",
         "pages" : "112",
         "year" : "1881",
-        "subject" : "Kolombiyalı büyük yazar Gabriel García Márquez'in 1981'de yayımlanan yedinci romanı Kırmızı Pazartesi, işleneceğini herkesin bildiği, engel olmak için kimsenin bir şey yapmadığı bir namus cinayetinin öyküsü. Hem Kolombiya'da, hem de yayımlandığı dünyanın dört bir yanındaki pek çok ülkede sarsıcı etkileri olmuş bir roman."
+        "subject" : "Kolombiyalı büyük yazar Gabriel García Márquez'in 1981'de yayımlanan yedinci romanı Kırmızı Pazartesi, işleneceğini herkesin bildiği, engel olmak için kimsenin bir şey yapmadığı bir namus cinayetinin öyküsü. Hem Kolombiya'da, hem de yayımlandığı dünyanın dört bir yanındaki pek çok ülkede sarsıcı etkileri olmuş bir roman.",
+        "image" : "https://github.com/busraselimoglu/bookjson/blob/main/kirmizipazartesi.jpg"
     },
     {
         "name" : "Çalıkuşu",
         "author" : "Reşat Nuri Güntekin",
         "pages" : "544",
         "year" : "1922",
-        "subject" : "Küçük yaşta annesini ve babasını kaybeden Feride'nin yaşadığı zorlukları, Kamuran'a olan bitmek bilmeyen aşkını ve Anadolu'da öğretmenlik yaptığı sırada Anadolu insanının yaşantısını ve tutumu kitapta konu olarak ele alınıyor."
+        "subject" : "Küçük yaşta annesini ve babasını kaybeden Feride'nin yaşadığı zorlukları, Kamuran'a olan bitmek bilmeyen aşkını ve Anadolu'da öğretmenlik yaptığı sırada Anadolu insanının yaşantısını ve tutumu kitapta konu olarak ele alınıyor.",
+        "image" : "https://github.com/busraselimoglu/bookjson/blob/main/calikusu.jpg"
     },
     {
         "name" : "Kendine Ait Bir Oda",
         "author" : "Virginia Woolf",
         "pages" : "152",
         "year" : "1929",
-        "subject" : "“Kadın ve edebiyat” arasındaki bağlantıyı kurmaca bir yazıyla ve karakterleriyle anlatan Woolf, kadınların neden daha az şiir yazdığını veya neden erkekler kadar yaratıcı olamadığını anlattığı eserinde, tarihsel süreç içerisinde kadının toplumdaki yerini de ele alıyor."
+        "subject" : "“Kadın ve edebiyat” arasındaki bağlantıyı kurmaca bir yazıyla ve karakterleriyle anlatan Woolf, kadınların neden daha az şiir yazdığını veya neden erkekler kadar yaratıcı olamadığını anlattığı eserinde, tarihsel süreç içerisinde kadının toplumdaki yerini de ele alıyor.",
+        "image" : "https://github.com/busraselimoglu/bookjson/blob/main/kendineaitoda.jpg"
     },
     {
         "name" : "Tutunamayanlar",
         "author" : "Oğuz Atay",
         "pages" : "724",
         "year" : "1972",
-        "subject" : "Belirli bir olayı sergilemekten çok; izlenimler, çağrışımlar, taşlamalar, ayrıntılar ve ruhsal çözümlemelerle oluşur. Bu bakımdan, özetlenmesi güçtür. Ancak, romanın konusu, kısaca şöyle açıklanabilir: Genç Mühendis Turgut Özben yakın arkadaşı Selim Işık'ın kendini bir tabancayla vurduğunu gazetelerden öğrenir."
+        "subject" : "Belirli bir olayı sergilemekten çok; izlenimler, çağrışımlar, taşlamalar, ayrıntılar ve ruhsal çözümlemelerle oluşur. Bu bakımdan, özetlenmesi güçtür. Ancak, romanın konusu, kısaca şöyle açıklanabilir: Genç Mühendis Turgut Özben yakın arkadaşı Selim Işık'ın kendini bir tabancayla vurduğunu gazetelerden öğrenir.",
+        "image" : "https://github.com/busraselimoglu/bookjson/blob/main/tutunamayanlar.jpg"
     },
     {
         "name" : "Sofie'nin Dünyası",
         "author" : "Jostein Gaarder",
         "pages" : "592",
         "year" : "1991",
-        "subject" : "BM taburunda binbaşı olarak görev yapan Albert Knag’ın okullarda verilen felsefe eğitimi yetersiz ve toplumun felsefenin önemini yeterince brnimsememesinden dolayı Sofi adındaki bir kızın felsefe tarihi içindeki heyecanı ve bir o kadar da düşündürücü olan serüvenini yer aldığı felsefe tarihi üzerine bir roman yazıp bunu onbeşinci yaş gününde kızı Hilde’ye armağan etmesi anlatılmaktadır."
+        "subject" : "BM taburunda binbaşı olarak görev yapan Albert Knag’ın okullarda verilen felsefe eğitimi yetersiz ve toplumun felsefenin önemini yeterince brnimsememesinden dolayı Sofi adındaki bir kızın felsefe tarihi içindeki heyecanı ve bir o kadar da düşündürücü olan serüvenini yer aldığı felsefe tarihi üzerine bir roman yazıp bunu onbeşinci yaş gününde kızı Hilde’ye armağan etmesi anlatılmaktadır.",
+        "image" : "https://github.com/busraselimoglu/bookjson/blob/main/sofienindunyasi.jpg"
     },
     {
         "name" : "Fahrenheit 451",
         "author" : "Ray Bradbury",
         "pages" : "208",
         "year" : "1953",
-        "subject" : "Guy Montag işini seven bir itfaiyecidir. Televizyonun ve teknolojinin hüküm sürdüğü karanlık bir dünyada okuma eylemi yok olmak üzeredir, zira itfaiyeciler yangın söndürmek yerine ortalığı ateşe vermektedir. Montag'ın işi ise yasadışı üretimlerin en tehlikelisi olan kitapları yakmaktır."
+        "subject" : "Guy Montag işini seven bir itfaiyecidir. Televizyonun ve teknolojinin hüküm sürdüğü karanlık bir dünyada okuma eylemi yok olmak üzeredir, zira itfaiyeciler yangın söndürmek yerine ortalığı ateşe vermektedir. Montag'ın işi ise yasadışı üretimlerin en tehlikelisi olan kitapları yakmaktır.",
+        "image" : "https://github.com/busraselimoglu/bookjson/blob/main/fahrenheit451.jpg"
     },
     {
         "name" : "Yüzyıllık Yalnızlık",
         "author" : "Gabriel García Márquez",
         "pages" : "464",
         "year" : "1967",
-        "subject" : "Buendia ailesinin, yapılan bir büyü sonucu akraba evliliği nedeniyle 100 yıl süren bir lanetle yaşamalarını konu ediniyor. Bu evlilik yüzünden domuz kuyruklu olan ailenin, lanetin sona ermesi için tüm üyelerinin ölmesi gerekiyor."
+        "subject" : "Buendia ailesinin, yapılan bir büyü sonucu akraba evliliği nedeniyle 100 yıl süren bir lanetle yaşamalarını konu ediniyor. Bu evlilik yüzünden domuz kuyruklu olan ailenin, lanetin sona ermesi için tüm üyelerinin ölmesi gerekiyor.",
+        "image" : "https://github.com/busraselimoglu/bookjson/blob/main/yuzyillikyalnizlik.jpg"
     },
     {
         "name" : "Yeraltından Notlar",
         "author" : "Fyodor Dostoyevski",
         "pages" : "140",
         "year" : "1864",
-        "subject" : "İnsan olmak, gerçek insan, etiyle kemiğiyle insan olmak bile ağır gelir bize. Utanırız bundan, insan olmayı yüzkarası sayarız, benzeri olmayan toplumsal birtakım insanlar olmak için çabalarız. Ölü doğmuş insanlarız biz ve uzun zamandır canlı babaların çocukları değiliz, giderek daha çok hoşlanıyoruz böyle doğmuş olmaktan. Zevk duyuyoruz bundan. Çok yakın bir gelecekte bir şekilde düşüncelerden doğmanın yolunu bulacağız."
+        "subject" : "İnsan olmak, gerçek insan, etiyle kemiğiyle insan olmak bile ağır gelir bize. Utanırız bundan, insan olmayı yüzkarası sayarız, benzeri olmayan toplumsal birtakım insanlar olmak için çabalarız. Ölü doğmuş insanlarız biz ve uzun zamandır canlı babaların çocukları değiliz, giderek daha çok hoşlanıyoruz böyle doğmuş olmaktan. Zevk duyuyoruz bundan. Çok yakın bir gelecekte bir şekilde düşüncelerden doğmanın yolunu bulacağız.",
+        "image" : "https://github.com/busraselimoglu/bookjson/blob/main/yeralt%C4%B1ndannotlar.jpg"
     },
     {
         "name" : "Sabırsız Yürek",
         "author" : "Stefan Zweig",
         "pages" : "460",
         "year" : "1939",
-        "subject" : "Birincisi, duygusal ve zayıf olanı, başka birinin yaşadığı felaketlerden kaynaklanan acı ve hüzünden olabildiğince çabuk kurtulmak için çırpınan bir yüreğin sabırsızlığıdır. Diğeri, tek gerçek acıma duygusu ise duygusal olmayan, ama yaratıcı olan, ne istediğini bilen; sabırla, gücü yettiğince, hatta gücünün bile ötesinde katlanmaya ve dayanmaya kararlı olunan acıma duygusudur."
+        "subject" : "Birincisi, duygusal ve zayıf olanı, başka birinin yaşadığı felaketlerden kaynaklanan acı ve hüzünden olabildiğince çabuk kurtulmak için çırpınan bir yüreğin sabırsızlığıdır. Diğeri, tek gerçek acıma duygusu ise duygusal olmayan, ama yaratıcı olan, ne istediğini bilen; sabırla, gücü yettiğince, hatta gücünün bile ötesinde katlanmaya ve dayanmaya kararlı olunan acıma duygusudur.",
+        "image" : "https://github.com/busraselimoglu/bookjson/blob/main/sabirsizyurek.jpg"
     }
 ]
