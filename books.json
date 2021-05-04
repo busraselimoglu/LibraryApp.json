@@ -3,12 +3,14 @@
         "name" : "Küçük Prens",
         "author" : "Antoine de Saint-Exupéry",
         "pages" : "112",
-        "year" : "1943"
+        "year" : "1943",
+        "image" : "https://github.com/busraselimoglu/bookjson/blob/main/kucukprens.jpg"
     },
     {
         "name" : "Şeker Portakalı",
         "author" : "José Mauro de Vasconcelos",
         "pages" : "197",
-        "year" : "1968"
+        "year" : "1968",
+        "image" : "https://github.com/busraselimoglu/bookjson/blob/main/sekerportakal%C4%B1.jpg"
     }
 ]
